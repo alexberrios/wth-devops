@@ -50,7 +50,9 @@ const Index = ({ pets }) => {
               </div>
             </div>
           </div>
+          <h1>Alex Berríos Espinoza</h1>
         </div>
+        
       ))}
     </>
   );
